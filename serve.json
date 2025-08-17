@@ -1,0 +1,6 @@
+{
+"public": ".",
+  "rewrites": [
+    { "source": "/qvac-hackathon-alpha-landing/:path*", "destination": "/:path*" }
+  ]
+}
